@@ -41,3 +41,14 @@ body {
   font-weight: 600;
   color: #81b29a;
 }
+.item_poke{
+  height: 120px;
+  width: 120px;
+  display: inline-block;
+  text-align: center;
+  background-color: aliceblue;
+  margin: 4px;
+}
+.name{
+  margin-top: -20px;
+}
